@@ -1,0 +1,6 @@
+[12-09-2026] - Belajar Java File I/O dan Try-With-Resources.
+[12-09-2026] - Halo semua, kenali aku Refan, mahasiswa semester 3 Informatika UNS!.
+[12-09-2026] - Belajar Java File I/O dan Try-With-Resources.
+[12-09-2026] - Halo semua, kenali aku Refan, mahasiswa semester 3 Informatika UNS!.
+[13-09-2026] - Mencoba fitur append agar catatan lama tidak terhapus.
+[13-09-2026] - Hai, ini catatan keduaku lanjutan dari catatanku sebelumnyaa, 12-09-2026.
